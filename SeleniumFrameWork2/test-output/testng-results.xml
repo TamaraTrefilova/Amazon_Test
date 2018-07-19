@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="124911" started-at="2018-07-19T05:13:59Z" finished-at="2018-07-19T05:16:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="124911" started-at="2018-07-19T05:13:59Z" finished-at="2018-07-19T05:16:04Z">
+      <class name="TestFrameWork_Test.NavigationLinksTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="beforeClass" is-config="true" duration-ms="30" started-at="2018-07-18T22:13:59Z" finished-at="2018-07-18T22:13:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="beforeTest" is-config="true" duration-ms="17107" started-at="2018-07-18T22:13:59Z" finished-at="2018-07-18T22:14:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://amazon.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[C:/Drivers/chromedriver_win32/chromedriver.exe]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[C:/Drivers/gecko/geckodriver.exe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTestDo()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="beforeTestDo" is-config="true" duration-ms="80" started-at="2018-07-18T22:14:16Z" depends-on-methods="TestFrameWork_Test.BaseTestSetup.beforeClass, TestFrameWork_Test.BaseTestSetup.beforeTest" finished-at="2018-07-18T22:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestDo -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-07-18T22:14:17Z" finished-at="2018-07-18T22:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_DayDealsLink()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="test_DayDealsLink" duration-ms="6287" started-at="2018-07-18T22:14:17Z" finished-at="2018-07-18T22:14:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DayDealsLink -->
+        <test-method status="PASS" signature="navigateBack()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="navigateBack" is-config="true" duration-ms="7560" started-at="2018-07-18T22:14:23Z" finished-at="2018-07-18T22:14:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateBack -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="afterMethod" is-config="true" duration-ms="3" started-at="2018-07-18T22:14:30Z" finished-at="2018-07-18T22:14:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-07-18T22:14:30Z" finished-at="2018-07-18T22:14:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_GiftCardsLink()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="test_GiftCardsLink" duration-ms="4182" started-at="2018-07-18T22:14:30Z" finished-at="2018-07-18T22:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_GiftCardsLink -->
+        <test-method status="PASS" signature="navigateBack()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="navigateBack" is-config="true" duration-ms="3666" started-at="2018-07-18T22:14:35Z" finished-at="2018-07-18T22:14:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateBack -->
+        <test-method status="PASS" signature="test_HelpLink()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="test_HelpLink" duration-ms="2073" started-at="2018-07-18T22:14:38Z" finished-at="2018-07-18T22:14:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HelpLink -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-07-18T22:14:38Z" finished-at="2018-07-18T22:14:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-07-18T22:14:38Z" finished-at="2018-07-18T22:14:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="navigateBack()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="navigateBack" is-config="true" duration-ms="8238" started-at="2018-07-18T22:14:40Z" finished-at="2018-07-18T22:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateBack -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="afterMethod" is-config="true" duration-ms="4" started-at="2018-07-18T22:14:49Z" finished-at="2018-07-18T22:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-07-18T22:14:49Z" finished-at="2018-07-18T22:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_RegistryLink()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="test_RegistryLink" duration-ms="2862" started-at="2018-07-18T22:14:49Z" finished-at="2018-07-18T22:14:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_RegistryLink -->
+        <test-method status="PASS" signature="navigateBack()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="navigateBack" is-config="true" duration-ms="2502" started-at="2018-07-18T22:14:51Z" finished-at="2018-07-18T22:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateBack -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-07-18T22:14:54Z" finished-at="2018-07-18T22:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-07-18T22:14:54Z" finished-at="2018-07-18T22:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_SellLink()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="test_SellLink" duration-ms="43976" started-at="2018-07-18T22:14:54Z" finished-at="2018-07-18T22:15:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_SellLink -->
+        <test-method status="PASS" signature="navigateBack()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="navigateBack" is-config="true" duration-ms="4158" started-at="2018-07-18T22:15:38Z" finished-at="2018-07-18T22:15:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateBack -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-07-18T22:15:42Z" finished-at="2018-07-18T22:15:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-07-18T22:15:42Z" finished-at="2018-07-18T22:15:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_SignInLink()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="test_SignInLink" duration-ms="7797" started-at="2018-07-18T22:15:42Z" finished-at="2018-07-18T22:15:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_SignInLink -->
+        <test-method status="PASS" signature="navigateBack()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="navigateBack" is-config="true" duration-ms="4229" started-at="2018-07-18T22:15:50Z" finished-at="2018-07-18T22:15:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateBack -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-07-18T22:15:54Z" finished-at="2018-07-18T22:15:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test_TryPrimeLink()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="test_TryPrimeLink" duration-ms="5428" started-at="2018-07-18T22:15:54Z" finished-at="2018-07-18T22:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_TryPrimeLink -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-07-18T22:15:54Z" finished-at="2018-07-18T22:15:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="navigateBack()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="navigateBack" is-config="true" duration-ms="3814" started-at="2018-07-18T22:16:00Z" finished-at="2018-07-18T22:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateBack -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-07-18T22:16:03Z" finished-at="2018-07-18T22:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="afterClass" is-config="true" duration-ms="1" started-at="2018-07-18T22:16:03Z" finished-at="2018-07-18T22:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestFrameWork_Test.NavigationLinksTest@77caeb3e]" name="afterTest" is-config="true" duration-ms="730" started-at="2018-07-18T22:16:03Z" finished-at="2018-07-18T22:16:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestFrameWork_Test.NavigationLinksTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
